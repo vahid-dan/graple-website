@@ -13,7 +13,3 @@ excerpt: 'A flexible two-column Jekyll theme. Perfect for personal sites, blogs,
 {% for repository in site.github.public_repositories %}
   * [{{ repository.name }}]({{ repository.html_url }})
 {% endfor %}
-
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
