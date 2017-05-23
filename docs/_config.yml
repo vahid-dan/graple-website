@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Minimal Mistakes"
+title                    : "GRAPLE"
 title_separator          : "-"
-name                     : &name "Michael Rose" # &name is a YAML anchor which can be *referenced later
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://mmistakes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : "mmistakes/minimal-mistakes"
+name                     : &name "GRAPLE" # &name is a YAML anchor which can be *referenced later
+description              : &description "Distributed Computing Made Easy for Lake Ecology Modeling"
+url                      : "https://vahid-dan.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/graple-website" # the subpath of your site, e.g. "/blog"
+repository               : "GRAPLE"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : #&twitter "mmistakes"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : #&facebook "michaelrose"
   app_id                 :
   publisher              :
 og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
@@ -67,8 +67,8 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://facebook.com/michaelrose"
+  # - "https://twitter.com/mmistakes"
+  # - "https://facebook.com/michaelrose"
 
 # Analytics
 analytics:
@@ -79,22 +79,22 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/images/michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  name             : ACIS Lab # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : #"/assets/images/michael-rose.jpg"
+  bio              : "University of Florida"
+  location         : "Gainesville, FL"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              : "http://graple.org"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : #*facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "GRAPLE"
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : #"mmistakes"
   lastfm           :
   linkedin         :
   pinterest        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : #*twitter
   vine             :
   weibo            :
   xing             :
