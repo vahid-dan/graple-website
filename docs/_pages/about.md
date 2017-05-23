@@ -24,15 +24,15 @@ GRAPLEr brings the power of distributed computing to the fingertips of lake ecol
 
 GRAPLEr, available on GitHub, is installed on a personal computer and integrated into the R development environment. It acts as a proxy to translate user commands written in R into Web service calls and arranges data between the client and Web service. A GLM simulation is specified by a set of input files (csv files) and model parameters (nml file). The required input files consist of time-series meteorological and inflow data. An additional outflow csv file can be included. Based on inputs, GRAPLEr either (A) performs a batch job which submits multiple preconfigured simulations as a job or (B1) performs a linear sweep or (B2) random sweep which generates multiple simulation input files, as specified, for submission:
 
-<img src="/docs/assets/images/Slide1.jpg" width="576" height="432" />
+<img src="/graple-website/docs/assets/images/Slide1.jpg" width="576" height="432" />
 
 The batch job or option A requires multiple simulation folders with required meteorological, inflow, and parameter files:
 
-<img src="/docs/assets/images/Slide2.jpg" width="576" height="432" />
+<img src="assets/images/Slide2.jpg" width="576" height="432" />
 
 The linear or random sweep jobs B require a single set of baseline meteorological, inflow, and parameter files and a job description file (csv file) specifying constant or random distribution offsets to input variables within the meteorological and inflow files:
 
-<img src="/docs/assets/images/Slide3.jpg" width="576" height="432" />
+<img src="docs/assets/images/Slide3.jpg" width="576" height="432" />
 
 <img src="/docs/assets/images/Slide4.jpg" width="576" height="432" />
 
