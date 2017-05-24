@@ -81,10 +81,10 @@ analytics:
 author:
   name             : ACIS Lab # *name is a YAML reference pointing to the &anchor earlier
   avatar           : #"/assets/images/michael-rose.jpg"
-  bio              : "University of Florida"
+  bio              : "Advanced Computing and Information Systems Laboratory, Department of Electrical & Computer Engineering, College of Engineering, University of Florida"
   location         : "Gainesville, FL"
   email            :
-  uri              : "https://acis.ufl.edu"
+  uri              : "https://www.acis.ufl.edu"
   bitbucket        :
   codepen          :
   dribbble         :
