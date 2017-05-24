@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : ACIS Lab # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : &base_url/assets/images/uf-logo-200x200.png
+  avatar           : "/graple-website/assets/images/uf-logo-200x200.png"
   bio              : "Advanced Computing and Information Systems Laboratory, Department of Electrical & Computer Engineering, College of Engineering, University of Florida"
   location         : "Gainesville, FL"
   email            :
