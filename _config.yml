@@ -244,6 +244,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-gems:
-          - jekyll-mentions
