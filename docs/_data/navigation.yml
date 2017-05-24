@@ -22,12 +22,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "GitHub Repsitories"
-    url: https://github.com/GRAPLE
-  - title: "TEAM"
+  - title: "Releases"
+    url: /categories/#releases
+  - title: "Team"
     url: /team/
-  - title: "ACIS Lab"
-    url: https://acis.ufl.edu/
+  - title: "Contact"
+    url: /contact/
 
 
 # documentation links
