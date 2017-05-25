@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 .sidebar {
-  clear: left;
+  clear: left !important;
 }
 
 .page__meta {
@@ -17,7 +17,7 @@
 }
 
 .page__hero--overlay {
-  padding: 2em 0;
+  padding: 2em 0 !important;
 }
 
 @import "minimal-mistakes";
