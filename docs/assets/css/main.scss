@@ -9,7 +9,15 @@
 }
 
 .page__meta {
-  margin: 2em 0;
+  margin-bottom: 2em;
+}
+
+.site-title {
+  font-size: larger;
+}
+
+.page__hero--overlay {
+  padding: 2em 0;
 }
 
 @import "minimal-mistakes";
