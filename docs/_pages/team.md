@@ -6,7 +6,7 @@ header:
   overlay_filter: rgba(127, 255, 0, 0.75)
 excerpt: ''
 
-feature_row_1:
+feature_row:
   - image_path: /assets/images/renato.jpg
     alt: "Renato Figueiredo"
     title: "Renato Figueiredo"
@@ -20,4 +20,4 @@ feature_row_1:
     url: "http://www.carey.biol.vt.edu/"
     btn_label: "Carey Lab"
 ---
-{% include feature_row_1 %}
+{% include feature_row %}
