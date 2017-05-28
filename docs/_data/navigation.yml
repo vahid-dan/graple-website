@@ -22,8 +22,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Releases"
-    url: /categories/#releases
+  - title: "Latest Release"
+    url: /graple-v3.1.0-released/
+  - title: "Quick Guide"
+    url: /quick-guide
   - title: "Team"
     url: /team/
   - title: "Contact"
