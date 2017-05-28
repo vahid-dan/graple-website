@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /team/
 title: "GRAPLE Team"
 header:
