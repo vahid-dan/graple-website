@@ -34,6 +34,9 @@ feature_row:
     url: "https://www.acis.ufl.edu/people/saumitraaditya"
     btn_label: "Saumitra's Webpage"
 ---
+{% include feature_row %}
+
+
 ![Jaikrishna](../assets/images/jaikrishna.jpg)
 Jaikrishna Tanjore Sukumar
 
