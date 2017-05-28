@@ -6,11 +6,24 @@ header:
   overlay_filter: rgba(127, 255, 0, 0.75)
 excerpt: ''
 ---
-![Renato](.../assets/images/renato.jpg)
-![Cayelan](.../assets/images/cayelan.jpg)
-![Ken](.../assets/images/ken.jpg)
-![Saumitra](.../assets/images/saumitra.jpg)
-![Jaikrishna](.../assets/images/jaikrishna.jpg)
-![Arianna](.../assets/images/arianna.jpg)
-![Vahid](.../assets/images/vahid.jpg)
+### Renato Figueiredo
+![Renato](../assets/images/renato.jpg)
+
+### Cayelan Carey
+![Cayelan](../assets/images/cayelan.jpg)
+
+### Kenworth Subratie
+![Ken](../assets/images/ken.jpg)
+
+### Saumitra Aditya
+![Saumitra](../assets/images/saumitra.jpg)
+
+### Jaikrishna Tanjore
+![Jaikrishna](../assets/images/jaikrishna.jpg)
+
+### Arianna Krinos
+![Arianna](../assets/images/arianna.jpg)
+
+### Vahid Daneshmand
+![Vahid](../assets/images/vahid.jpg)
 
