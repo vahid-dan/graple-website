@@ -5,7 +5,6 @@ header:
   overlay_image: /assets/images/tenaya-lake-1600px.jpg
   overlay_filter: rgba(127, 255, 0, 0.75)
 excerpt: ''
----
 feature_row:
   - image_path: ../assets/images/renato.jpg
     alt: "Renato Figueiredo"
@@ -33,14 +32,18 @@ feature_row:
     excerpt: "PhD Candidate at ACIS Lab, University of Florida"
     url: "https://www.acis.ufl.edu/people/saumitraaditya"
     btn_label: "Saumitra's Webpage"
-
-### Jaikrishna Tanjore
+---
 ![Jaikrishna](../assets/images/jaikrishna.jpg)
+Jaikrishna Tanjore Sukumar
 
-### Arianna Krinos
+Email: 
+
 ![Arianna](../assets/images/arianna.jpg)
+Arianna Krinos
+
 Email: akrinos{at}vt.edu
 
-### Vahid Daneshmand
 ![Vahid](../assets/images/vahid.jpg)
+Vahid Daneshmand
+
 Email: vdaneshmand{at}acis.ufl.edu
