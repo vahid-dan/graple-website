@@ -3,59 +3,71 @@ permalink: /team/
 title: "GRAPLE Team"
 header:
   overlay_image: /assets/images/tenaya-lake-1600px.jpg
-  overlay_filter: rgba(127, 255, 0, 0.75)
+  overlay_filter: rgba(255, 127, 0, 0.75)
 excerpt: ''
 ---
-![Renato Figueiredo](../assets/images/renato.jpg)
+---
+{: .clear-both}
 
-**Renato Figueiredo**
+![Renato Figueiredo](../assets/images/renato.jpg){: .profile-img}
+
+**Renato Figueiredo** ([{% icon fa-link %}](https://www.acis.ufl.edu/people/renatof))
 
 Professor at ACIS Lab, University of Florida
 
-[Webpage](https://www.acis.ufl.edu/people/renatof)
+---
+{: .clear-both}
 
-![Cayelan Carey](../assets/images/cayelan.jpg)
+![Cayelan Carey](../assets/images/cayelan.jpg){: .profile-img}
 
-**Cayelan Carey**
+**Cayelan Carey** ([Webpage](http://www.carey.biol.vt.edu/))
 
 Assistant Professor at VirginiaTech University
 
-[Webpage](http://www.carey.biol.vt.edu/)
+---
+{: .clear-both}
 
-![Kenworth Subratie](../assets/images/ken.jpg)
+![Kenworth Subratie](../assets/images/ken.jpg){: .profile-img}
 
-**Kenworth Subratie**
-
-PhD Candidate at ACIS Lab, University of Florida
-
-[Webpage](https://www.acis.ufl.edu/people/kcratie)
-
-![Saumitra Aditya](../assets/images/saumitra.jpg)
-
-**Saumitra Aditya**
+**Kenworth Subratie** ([Webpage](https://www.acis.ufl.edu/people/kcratie))
 
 PhD Candidate at ACIS Lab, University of Florida
 
-[Webpage](https://www.acis.ufl.edu/people/saumitraaditya)
+---
+{: .clear-both}
 
-![Jaikrishna Tanjore Sukumar](../assets/images/jaikrishna.jpg)
+![Saumitra Aditya](../assets/images/saumitra.jpg){: .profile-img}
 
-**Jaikrishna Tanjore Sukumar**
+**Saumitra Aditya** ([Webpage](https://www.acis.ufl.edu/people/saumitraaditya))
+
+PhD Candidate at ACIS Lab, University of Florida
+
+---
+{: .clear-both}
+
+![Jaikrishna Tanjore Sukumar](../assets/images/jaikrishna.jpg){: .profile-img}
+
+**Jaikrishna Tanjore Sukumar** ([Webpage](https://www.acis.ufl.edu/people/jaikrishna))
 
 ACIS Lab Alumni, University of Florida
 
-[Webpage](https://www.acis.ufl.edu/people/jaikrishna)
+---
+{: .clear-both}
 
-![Arianna Krinos](../assets/images/arianna.jpg)
+![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
 
 **Arianna Krinos**
 
 Undergraduate Student at Carey Lab, VirginiaTech University
 
-![Vahid Daneshmand](../assets/images/vahid.jpg)
+---
+{: .clear-both}
 
-**Vahid Daneshmand**
+![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 
-PHD Student at ACIS Lab, University of Florida
+**Vahid Daneshmand** ([Webpage](https://www.acis.ufl.edu/people/vdaneshmand))
 
-[Webpage](https://www.acis.ufl.edu/people/vdaneshmand)
+PhD Student at ACIS Lab, University of Florida
+
+---
+{: .clear-both}

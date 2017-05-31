@@ -26,6 +26,8 @@ main:
     url: /graple-v3.1.0-released/
   - title: "Quick Guide"
     url: /quick-guide
+  - title: "Repositories"
+    url: /repositories/  
   - title: "Team"
     url: /team/
   - title: "Contact"
