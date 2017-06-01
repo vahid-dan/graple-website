@@ -1,24 +1,24 @@
 ---
 permalink: /repositories/
-title: "GRAPLEr Repositories"
+title: "Repositories"
 header:
   overlay_image: /assets/images/tenaya-lake-1600px.jpg
   overlay_filter: rgba(127, 127, 0, 0.75)
-excerpt: 'GRAPLEr Project GitHub Repositories'
+excerpt: 'GRAPLEr GitHub Repositories'
 ---
-### [GRAPLE/GRAPLEr](https://github.com/GRAPLE/GRAPLEr)
+### <i class="fa fa-github"></i> [GRAPLE/GRAPLEr](https://github.com/GRAPLE/GRAPLEr)
 
 R API for Accessing GRAPLE Web Service
 
 {::nomarkdown}<iframe src="https://ghbtns.com/github-btn.html?user=GRAPLE&repo=GRAPLEr&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=GRAPLE&repo=GRAPLEr&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=GRAPLE&repo=GRAPLEr&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>{:/nomarkdown}'
 
-### [GRAPLE/GWS](https://github.com/GRAPLE/GWS)
+### <i class="fa fa-github"></i> [GRAPLE/GWS](https://github.com/GRAPLE/GWS)
 
 GRAPLE Web Service
 
 {::nomarkdown}<iframe src="https://ghbtns.com/github-btn.html?user=GRAPLE&repo=GWS&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=GRAPLE&repo=GWS&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=GRAPLE&repo=GWS&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>{:/nomarkdown}'
 
-### [GRAPLE/GEMT](https://github.com/GRAPLE/GEMT)
+### <i class="fa fa-github"></i> [GRAPLE/GEMT](https://github.com/GRAPLE/GEMT)
 
 GRAPLE Experiment Management Tools
 

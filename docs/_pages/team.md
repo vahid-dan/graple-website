@@ -1,10 +1,10 @@
 ---
 permalink: /team/
-title: "GRAPLE Team"
+title: "Team"
 header:
   overlay_image: /assets/images/tenaya-lake-1600px.jpg
   overlay_filter: rgba(255, 127, 0, 0.75)
-excerpt: ''
+excerpt: 'GRAPLE Team Members'
 ---
 ---
 {: .clear-both}

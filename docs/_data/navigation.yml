@@ -30,6 +30,8 @@ main:
     url: /repositories/  
   - title: "Team"
     url: /team/
+  - title: "Sponsors"
+    url: /sponsors/
   - title: "Contact"
     url: /contact/
 
