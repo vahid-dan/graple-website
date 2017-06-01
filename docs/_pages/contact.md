@@ -6,26 +6,26 @@ header:
   overlay_filter: rgba(0, 127, 127, 0.75)
 excerpt: ''
 ---
-## Project Lead ##
+## Project Lead
 
-**Dr. Renato J. Figueiredo**
+### Dr. Renato J. Figueiredo
 
-Email: renato{at}ece.ufl.edu
+<i class="fa fa-envelope-o"></i> renato{at}ece.ufl.edu
 
-**Dr. Caelyn Carey**
+### Dr. Caelyn Carey
 
-Email:cayelan{at}vt.edu
+<i class="fa fa-envelope-o"></i> cayelan{at}vt.edu
 
-**Dr. Paul C. Hanson**
+### Dr. Paul C. Hanson
 
-Email: pchanson{at}wisc.edu
+<i class="fa fa-envelope-o"></i> pchanson{at}wisc.edu
 
-## Technical Support ##
+## Technical Support
 
-**Kenworth Subratie**
+### Kenworth Subratie
 
-Email: kcratie{at}acis.ufl.edu
+<i class="fa fa-envelope-o"></i> kcratie{at}acis.ufl.edu
 
-**Vahid Daneshmand**
+### Vahid Daneshmand
 
-Email: vdaneshmand{at}acis.ufl.edu
+<i class="fa fa-envelope-o"></i> vdaneshmand{at}acis.ufl.edu
