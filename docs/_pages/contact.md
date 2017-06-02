@@ -12,7 +12,7 @@ excerpt: 'Contact GRAPLE Team'
 
 <i class="fa fa-envelope-o"></i> renato{at}ece.ufl.edu
 
-### Dr. Caelyn Carey
+### Dr. Cayelan Carey
 
 <i class="fa fa-envelope-o"></i> cayelan{at}vt.edu
 
