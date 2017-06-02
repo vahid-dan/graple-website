@@ -25,13 +25,13 @@ main:
   - title: "Latest Release"
     url: /graple-v3.1.0-released/
   - title: "Quick Guide"
-    url: /quick-guide
+    url: /quick-guide/
   - title: "Repositories"
     url: /repositories/  
   - title: "Team"
     url: /team/
   - title: "Gallery"
-    url: /gallery/pragma32/
+    url: /gallery/
   - title: "Sponsors"
     url: /sponsors/
   - title: "Contact"
