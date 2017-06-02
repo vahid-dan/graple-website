@@ -30,6 +30,8 @@ main:
     url: /repositories/  
   - title: "Team"
     url: /team/
+  - title: "Gallery"
+    url: /gallery/pragma32/
   - title: "Sponsors"
     url: /sponsors/
   - title: "Contact"

@@ -1,10 +1,9 @@
 ---
-layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 header:
   overlay_image: /assets/images/tenaya-lake-1600px.jpg
-  overlay_filter: rgba(127, 0, 255, 0.75)
+  overlay_filter: rgba(0, 127, 255, 0.75)
 excerpt: ''
 author_profile: false
 ---

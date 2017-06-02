@@ -3,7 +3,7 @@ permalink: /about/
 title: "About GRAPLE"
 header:
   overlay_image: /assets/images/tenaya-lake-1600px.jpg
-  overlay_filter: rgba(0, 127, 255, 0.75)
+  overlay_filter: rgba(127, 0, 255, 0.75)
 excerpt: "Distributed Computing Made Easy for Lake Ecology Modeling"
 ---
 GRAPLEr is an R-based open-source software product of GRAPLE, the [GLEON] Research and [PRAGMA] Lake Expedition.

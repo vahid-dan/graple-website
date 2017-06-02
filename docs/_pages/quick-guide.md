@@ -12,7 +12,27 @@ tags:
   - v3.1.0
 ---
 ## Install RStudio
+Download and install [RStudio] on your machine
 
-## Install Prerequisites
+## Install GRAPLEr and Prerequisites
+Run the following commands in RStudio:
+
+```
+install.packages("httr")
+install.packages("RCurl")
+install.packages("jsonlite")
+install.packages("devtools")
+library("devtools")
+devtools::install_github("GRAPLE/GRAPLEr")
+```
 
 ## Run a Sample Experiment
+You can go through the [Project EDDIE] module to test-drive the execution of hundreds of GLM model runs through GRAPLEr.
+
+## Any Problem?
+Contact [Technical Support].
+
+
+[RStudio]: https://www.rstudio.com/products/rstudio/download2/
+[Project EDDIE]: http://cemast.illinoisstate.edu/data-for-students/modules/lake-modeling.shtml
+[Technical Support]: ../contact

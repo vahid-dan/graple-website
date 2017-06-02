@@ -1,4 +1,4 @@
-<div class="page__footer-follow">
+<!-- <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
@@ -14,13 +14,16 @@
     {% endif %}
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
+    {% endif %} -->
     <!-- <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | absolute_url }}{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li> -->
-  </ul>
+<!--  </ul>
+</div> --> 
+
+<div class="page__footer-copyright float-left">ACIS Lab, P.O. Box 116200, 339 Larsen Hall, Gainesville, FL 32611-6200; 352.392.4964<br />
+<a href="/contact">Contact</a> | <a href="/sitemap">Sitemap</a><br />
+&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
 </div>
 
-<div class="page__footer-copyright">ACIS Lab - Advanced Computing and Information Systems Laboratory<br />
+<div class="page__footer-copyright float-right">ACIS Lab - Advanced Computing and Information Systems Laboratory<br />
 Department of Electrical & Computer Engineering<br />
 College of Engineering, University of Florida</div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
