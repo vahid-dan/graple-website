@@ -60,7 +60,7 @@ facebook:
   username               : #&facebook "michaelrose"
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/site-logo.png" # Open Graph/Twitter default site image
+og_image                 : #"/assets/images/site-logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles, used in _includes/seo.html
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -188,7 +188,7 @@ defaults:
       type: posts
     values:
       layout: splash
-      author_profile: true
+      author_profile: false
       read_time: false
       comments: false
       share: false
@@ -199,7 +199,7 @@ defaults:
       type: pages
     values:
       layout: splash
-      author_profile: true
+      author_profile: false
   # # _docs
   # - scope:
   #     path: ""

@@ -20,25 +20,23 @@
 
 # main links
 main:
-  - title: "Latest Release"
+  - title: Latest Release
     url: /graple-v3.1.0-released/
-  - title: "Quick Guide"
+  - title: Quick Guide
     url: /quick-guide/
-  - title: "About"
+  - title: About
     url: /about/
-  - title: "Team"
+  - title: Team
     url: /team/
-  - title: "Contact"
+  - title: Contact
     url: /contact/
-  - title: "Gallery"
+  - title: Gallery
     url: /gallery/
-  - title: "Sponsors"
+  - title: Sponsors
     url: /sponsors/
-  - title: "Repositories"
-    url: /repositories/  
 
 
-#documentation links
+# sidebar links
 sidebar:
  - title: Getting Started
    children:
