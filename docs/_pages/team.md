@@ -36,9 +36,9 @@ Distinguished Research Professor, UW Center for Limnology, University of Wiscons
 ---
 {: .clear-both}
 
-![Kenworth Subratie](../assets/images/ken.jpg){: .profile-img}
+![Kensworth Subratie](../assets/images/ken.jpg){: .profile-img}
 
-### Kenworth Subratie [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/kcratie)
+### Kensworth Subratie [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/kcratie)
 
 PhD Candidate, ACIS Lab, University of Florida
 

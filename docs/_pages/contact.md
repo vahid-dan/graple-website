@@ -22,7 +22,7 @@ excerpt: 'Contact GRAPLE Team'
 
 ## Technical Support
 
-### Kenworth Subratie
+### Kensworth Subratie
 
 <i class="fa fa-envelope-o"></i> kcratie{at}acis.ufl.edu
 
