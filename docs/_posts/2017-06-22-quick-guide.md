@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(0, 127, 255, 0.75)
 excerpt: 'GRAPLE Quick Guide'
 sidebar:
-  nav: "docs"
+  nav: "sidebar"
 categories:
   - documents
 tags:

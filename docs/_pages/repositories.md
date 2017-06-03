@@ -7,7 +7,7 @@ header:
   overlay_filter: rgba(0, 127, 255, 0.75)
 excerpt: 'GRAPLEr GitHub Repositories'
 sidebar:
-  nav: "docs"
+  nav: "sidebar"
 ---
 ### <i class="fa fa-github"></i> [GRAPLE/GRAPLEr](https://github.com/GRAPLE/GRAPLEr)
 

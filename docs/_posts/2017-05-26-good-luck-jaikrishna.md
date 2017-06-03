@@ -6,9 +6,13 @@ header:
   overlay_image: /assets/images/tenaya-lake-1600px.jpg
   overlay_filter: rgba(0, 127, 255, 0.75)
 excerpt: 'Jaikrishna Tanjore Sukumar got graduated.'
+sidebar:
+  nav: "sidebar"
 categories:
   - news
 tags:
   - team
 ---
-Jaikrishna got graduted and left the ACIS lab. Wish him luck!
+![Jaikrishna Tanjore Sukumar](../../assets/images/jaikrishna.jpg){: .profile-img}
+
+Jaikrishna got graduted and left the ACIS lab. We really appreciate what he has done for the ACIS lab, espesially in GRAPLEr project and wish him the all the best.
