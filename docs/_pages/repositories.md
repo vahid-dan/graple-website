@@ -1,10 +1,13 @@
 ---
+layout: single
 permalink: /repositories/
 title: "Repositories"
 header:
   overlay_image: /assets/images/tenaya-lake-1600px.jpg
   overlay_filter: rgba(0, 127, 255, 0.75)
 excerpt: 'GRAPLEr GitHub Repositories'
+sidebar:
+  nav: "docs"
 ---
 ### <i class="fa fa-github"></i> [GRAPLE/GRAPLEr](https://github.com/GRAPLE/GRAPLEr)
 

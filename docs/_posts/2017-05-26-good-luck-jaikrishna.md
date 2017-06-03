@@ -12,4 +12,3 @@ tags:
   - team
 ---
 Jaikrishna got graduted and left the ACIS lab. Wish him luck!
-
