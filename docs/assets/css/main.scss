@@ -40,3 +40,16 @@ p {
 .page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
     text-shadow: 4px 4px 4px rgba(0,0,0,1);
 }
+
+.third{
+
+  @include span(12 of 12(gutter-override: 0));
+
+  @include breakpoint($medium) { // will convert to a max-width:768px media query
+    @include span(6 of 12(gutter-override: 0));
+  }
+
+  @include breakpoint($large) { // will convert to a max-width:1024px media query
+    @include span(4 of 12(gutter-override: 0));
+  }
+}
