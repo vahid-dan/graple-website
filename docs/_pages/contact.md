@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact"
 header:
-  overlay_image: /assets/images/tenaya-lake-1600px.jpg
+  overlay_image: /assets/images/header.jpg
   overlay_filter: rgba(0, 127, 127, 0.75)
 excerpt: 'Contact GRAPLE Team'
 ---

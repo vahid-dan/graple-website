@@ -1,7 +1,7 @@
 ---
 title: "PRAGMA 32"
 header:
-  overlay_image: /assets/images/tenaya-lake-1600px.jpg
+  overlay_image: /assets/images/header.jpg
   overlay_filter: rgba(127, 127, 0, 0.75)
 excerpt: "Photo Gallery"
 permalink: /gallery/

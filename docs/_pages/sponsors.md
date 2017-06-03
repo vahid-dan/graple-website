@@ -2,7 +2,7 @@
 permalink: /sponsors/
 title: "Sponsors"
 header:
-  overlay_image: /assets/images/tenaya-lake-1600px.jpg
+  overlay_image: /assets/images/header.jpg
   overlay_filter: rgba(127, 0, 127, 0.75)
 excerpt: 'GRAPLE Sponsors'
 ---

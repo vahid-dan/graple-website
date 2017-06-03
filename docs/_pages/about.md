@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About GRAPLE"
 header:
-  overlay_image: /assets/images/tenaya-lake-1600px.jpg
+  overlay_image: /assets/images/header.jpg
   overlay_filter: rgba(127, 0, 255, 0.75)
 excerpt: "Distributed Computing Made Easy for Lake Ecology Modeling"
 ---

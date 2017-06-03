@@ -3,7 +3,7 @@ layout: single
 permalink: /repositories/
 title: "Repositories"
 header:
-  overlay_image: /assets/images/tenaya-lake-1600px.jpg
+  overlay_image: /assets/images/header.jpg
   overlay_filter: rgba(0, 127, 255, 0.75)
 excerpt: 'GRAPLEr GitHub Repositories'
 sidebar:

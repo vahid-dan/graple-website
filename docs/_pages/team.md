@@ -2,7 +2,7 @@
 permalink: /team/
 title: "Team"
 header:
-  overlay_image: /assets/images/tenaya-lake-1600px.jpg
+  overlay_image: /assets/images/header.jpg
   overlay_filter: rgba(255, 127, 0, 0.75)
 excerpt: 'GRAPLE Team Members'
 ---
@@ -11,7 +11,7 @@ excerpt: 'GRAPLE Team Members'
 
 ![Renato J. Figueiredo](../assets/images/renato.jpg){: .profile-img}
 
-### Renato Figueiredo [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/renatof)
+### Dr. Renato J. Figueiredo [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/renatof)
 
 Professor, ACIS Lab, University of Florida
 
@@ -20,7 +20,7 @@ Professor, ACIS Lab, University of Florida
 
 ![Cayelan Carey](../assets/images/cayelan.jpg){: .profile-img}
 
-### Cayelan Carey [<i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/)
+### Dr. Cayelan Carey [<i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/)
 
 Assistant Professor, Carey Lab, VirginiaTech University
 
@@ -29,7 +29,7 @@ Assistant Professor, Carey Lab, VirginiaTech University
 
 ![Paul C. Hanson](../assets/images/paul.jpg){: .profile-img}
 
-### Paul C. Hanson [<i class="fa fa-link"></i>](http://hanson.limnology.wisc.edu/)
+### Dr. Paul C. Hanson [<i class="fa fa-link"></i>](http://hanson.limnology.wisc.edu/)
 
 Distinguished Research Professor, UW Center for Limnology, University of Wisconsin-Madison
 
