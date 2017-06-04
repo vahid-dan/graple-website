@@ -6,8 +6,8 @@ header:
   overlay_filter: rgba(255, 127, 0, 0.75)
 excerpt: 'GRAPLE Team Members'
 ---
----
-{: .clear-both}
+
+{::nomarkdown}<div class="half">{:/nomarkdown}
 
 ![Renato J. Figueiredo](../assets/images/renato.jpg){: .profile-img}
 
@@ -15,8 +15,9 @@ excerpt: 'GRAPLE Team Members'
 
 Professor, ACIS Lab, University of Florida
 
----
-{: .clear-both}
+{::nomarkdown}</div>{:/nomarkdown}
+
+{::nomarkdown}<div class="half">{:/nomarkdown}
 
 ![Cayelan Carey](../assets/images/cayelan.jpg){: .profile-img}
 
@@ -24,8 +25,9 @@ Professor, ACIS Lab, University of Florida
 
 Assistant Professor, Carey Lab, VirginiaTech University
 
----
-{: .clear-both}
+{::nomarkdown}</div>{:/nomarkdown}
+
+{::nomarkdown}<div class="half clear-both">{:/nomarkdown}
 
 ![Paul C. Hanson](../assets/images/paul.jpg){: .profile-img}
 
@@ -33,8 +35,9 @@ Assistant Professor, Carey Lab, VirginiaTech University
 
 Distinguished Research Professor, UW Center for Limnology, University of Wisconsin-Madison
 
----
-{: .clear-both}
+{::nomarkdown}</div>{:/nomarkdown}
+
+{::nomarkdown}<div class="half">{:/nomarkdown}
 
 ![Kensworth Subratie](../assets/images/ken.jpg){: .profile-img}
 
@@ -42,17 +45,19 @@ Distinguished Research Professor, UW Center for Limnology, University of Wiscons
 
 PhD Candidate, ACIS Lab, University of Florida
 
----
-{: .clear-both}
+{::nomarkdown}</div>{:/nomarkdown}
 
-![Saumitra Aditya](../assets/images/saumitra.jpg){: .profile-img}
+{::nomarkdown}<div class="half clear-both">{:/nomarkdown}
+
+![Saumitra Aditya](../assets/images/saumitra.jpg){: .profile-img }
 
 ### Saumitra Aditya [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/saumitraaditya)
 
 PhD Candidate, ACIS Lab, University of Florida
 
----
-{: .clear-both}
+{::nomarkdown}</div>{:/nomarkdown}
+
+{::nomarkdown}<div class="half">{:/nomarkdown}
 
 ![Jaikrishna Tanjore Sukumar](../assets/images/jaikrishna.jpg){: .profile-img}
 
@@ -60,8 +65,9 @@ PhD Candidate, ACIS Lab, University of Florida
 
 Alumni, ACIS Lab, University of Florida
 
----
-{: .clear-both}
+{::nomarkdown}</div>{:/nomarkdown}
+
+{::nomarkdown}<div class="half clear-both">{:/nomarkdown}
 
 ![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
 
@@ -69,8 +75,9 @@ Alumni, ACIS Lab, University of Florida
 
 Undergraduate Student, Carey Lab, VirginiaTech University
 
----
-{: .clear-both}
+{::nomarkdown}</div>{:/nomarkdown}
+
+{::nomarkdown}<div class="half">{:/nomarkdown}
 
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 
@@ -78,5 +85,4 @@ Undergraduate Student, Carey Lab, VirginiaTech University
 
 PhD Student, ACIS Lab, University of Florida
 
----
-{: .clear-both}
+{::nomarkdown}</div>{:/nomarkdown}
