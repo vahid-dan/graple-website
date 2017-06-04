@@ -32,6 +32,8 @@ main:
     url: /contact/
   - title: Gallery
     url: /gallery/
+  - title: Sister Projects
+    url: /sisters/
   - title: Sponsors
     url: /sponsors/
 

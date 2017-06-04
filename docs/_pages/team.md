@@ -11,7 +11,7 @@ excerpt: 'GRAPLE Team Members'
 
 ![Renato J. Figueiredo](../assets/images/renato.jpg){: .profile-img}
 
-### Dr. Renato J. Figueiredo [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/renatof)
+### [Dr. Renato J. Figueiredo <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/renatof){: target="_blank"}
 
 Professor, ACIS Lab, University of Florida
 
@@ -21,7 +21,7 @@ Professor, ACIS Lab, University of Florida
 
 ![Cayelan Carey](../assets/images/cayelan.jpg){: .profile-img}
 
-### Dr. Cayelan Carey [<i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/)
+### [Dr. Cayelan Carey <i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/){: target="_blank"}
 
 Assistant Professor, Carey Lab, VirginiaTech University
 
@@ -31,7 +31,7 @@ Assistant Professor, Carey Lab, VirginiaTech University
 
 ![Paul C. Hanson](../assets/images/paul.jpg){: .profile-img}
 
-### Dr. Paul C. Hanson [<i class="fa fa-link"></i>](http://hanson.limnology.wisc.edu/)
+### [Dr. Paul C. Hanson <i class="fa fa-link"></i>](http://hanson.limnology.wisc.edu/){: target="_blank"}
 
 Distinguished Research Professor, UW Center for Limnology, University of Wisconsin-Madison
 
@@ -41,7 +41,7 @@ Distinguished Research Professor, UW Center for Limnology, University of Wiscons
 
 ![Kensworth Subratie](../assets/images/ken.jpg){: .profile-img}
 
-### Kensworth Subratie [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/kcratie)
+### [Kensworth Subratie <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/kcratie){: target="_blank"}
 
 PhD Candidate, ACIS Lab, University of Florida
 
@@ -51,7 +51,7 @@ PhD Candidate, ACIS Lab, University of Florida
 
 ![Saumitra Aditya](../assets/images/saumitra.jpg){: .profile-img }
 
-### Saumitra Aditya [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/saumitraaditya)
+### [Saumitra Aditya <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/saumitraaditya){: target="_blank"}
 
 PhD Candidate, ACIS Lab, University of Florida
 
@@ -61,7 +61,7 @@ PhD Candidate, ACIS Lab, University of Florida
 
 ![Jaikrishna Tanjore Sukumar](../assets/images/jaikrishna.jpg){: .profile-img}
 
-### Jaikrishna Tanjore Sukumar [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/jaikrishna)
+### [Jaikrishna Tanjore Sukumar <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/jaikrishna){: target="_blank"}
 
 Alumni, ACIS Lab, University of Florida
 
@@ -81,7 +81,7 @@ Undergraduate Student, Carey Lab, VirginiaTech University
 
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 
-### Vahid Daneshmand [<i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand)
+### [Vahid Daneshmand <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand){: target="_blank"}
 
 PhD Student, ACIS Lab, University of Florida
 
