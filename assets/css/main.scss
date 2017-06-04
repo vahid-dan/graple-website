@@ -5,3 +5,70 @@
 @charset "utf-8";
 
 @import "minimal-mistakes";
+
+.site-title {
+  font-size: larger;
+}
+
+.page__hero--overlay {
+  padding: 2em 0;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.profile-img {
+  clear: both;
+  float: left;
+  border-radius: 4px;
+  margin: 0 1em 1em 0;
+}
+
+.clear-both {
+  clear: both;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
+    text-shadow: 4px 4px 4px rgba(0,0,0,1);
+}
+
+.one-third {
+
+  @include span(12 of 12(gutter-override: 0));
+  margin-bottom: 2em;
+
+  @include breakpoint($medium) {
+    @include span(6 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+  }
+
+  @include breakpoint($large) {
+    @include span(4 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+  }
+}
+
+.half {
+
+  @include span(12 of 12(gutter-override: 0));
+  margin-bottom: 2em;
+
+  @include breakpoint($medium) {
+    @include span(6 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+  }
+
+  @include breakpoint($large) {
+    @include span(6 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+  }
+}
