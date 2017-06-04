@@ -41,15 +41,34 @@ p {
     text-shadow: 4px 4px 4px rgba(0,0,0,1);
 }
 
-.third{
+.third {
 
   @include span(12 of 12(gutter-override: 0));
+  margin-bottom: 2em;
 
-  @include breakpoint($medium) { // will convert to a max-width:768px media query
+  @include breakpoint($medium) {
     @include span(6 of 12(gutter-override: 0));
+    margin-bottom: 2em;
   }
 
-  @include breakpoint($large) { // will convert to a max-width:1024px media query
+  @include breakpoint($large) {
     @include span(4 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+  }
+}
+
+.half {
+
+  @include span(12 of 12(gutter-override: 0));
+  margin-bottom: 2em;
+
+  @include breakpoint($medium) {
+    @include span(6 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+  }
+
+  @include breakpoint($large) {
+    @include span(6 of 12(gutter-override: 0));
+    margin-bottom: 2em;
   }
 }

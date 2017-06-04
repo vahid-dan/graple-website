@@ -6,41 +6,31 @@ header:
   overlay_filter: rgba(0, 127, 127, 0.75)
 excerpt: 'Contact GRAPLE Team'
 ---
-## Project Lead
+<h2 class="clear-both">Project Lead</h2>
 
-{::nomarkdown}<div class="third">{:/nomarkdown}
-### Dr. Renato J. Figueiredo
+<div class="third">
+  <strong>Dr. Renato J. Figueiredo</strong><br />
+  <i class="fa fa-envelope-o"></i> renato{at}ece.ufl.edu
+</div>
 
-<i class="fa fa-envelope-o"></i> renato{at}ece.ufl.edu
+<div class="third">
+  <strong>Dr. Cayelan Carey</strong><br />
+  <i class="fa fa-envelope-o"></i> cayelan{at}vt.edu
+</div>
 
-{::nomarkdown}</div>{:/nomarkdown}
+<div class="third">
+  <strong>Dr. Paul C. Hanson</strong><br />
+  <i class="fa fa-envelope-o"></i> pchanson{at}wisc.edu
+</div>
 
-{::nomarkdown}<div class="third">{:/nomarkdown}
-### Dr. Cayelan Carey
+<h2 class="clear-both">Technical Support</h2>
 
-<i class="fa fa-envelope-o"></i> cayelan{at}vt.edu
+<div class="third">
+  <strong>Kensworth Subratie</strong><br />
+  <i class="fa fa-envelope-o"></i> kcratie{at}acis.ufl.edu
+</div>
 
-{::nomarkdown}</div>{:/nomarkdown}
-
-{::nomarkdown}<div class="third">{:/nomarkdown}
-### Dr. Paul C. Hanson
-
-<i class="fa fa-envelope-o"></i> pchanson{at}wisc.edu
-
-{::nomarkdown}</div>{:/nomarkdown}
-
----
-
-## Technical Support
-
-{::nomarkdown}<div class="third">{:/nomarkdown}
-### Kensworth Subratie
-
-<i class="fa fa-envelope-o"></i> kcratie{at}acis.ufl.edu
-
-{::nomarkdown}</div>{:/nomarkdown}
-
-{::nomarkdown}<div class="third">{:/nomarkdown}
-### Vahid Daneshmand
-
-<i class="fa fa-envelope-o"></i> vdaneshmand{at}acis.ufl.edu
+<div class="third">
+  <strong>Vahid Daneshmand</strong><br />
+  <i class="fa fa-envelope-o"></i> vdaneshmand{at}acis.ufl.edu
+</div>
