@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Navigation"
+    url: https://vahid-dan.github.io/graple-website/docs/quick-start-guide/
+  - title: "About"
+    url: https://vahid-dan.github.io/graple-website/about/
+  - title: "Sample Posts"
+    url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Sitemap"
+    url: /sitemap/

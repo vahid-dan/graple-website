@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Recipes"
+permalink: /recipes/
+header:
+  overlay_image: /assets/images/header.jpg
+  overlay_filter: rgba(0, 127, 255, 0.75)
+sidebar:
+  nav: "sidebar"
+---
+
+{% for post in site.recipes %}
+  {% include archive-single.html %}
+{% endfor %}
