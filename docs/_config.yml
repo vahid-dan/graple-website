@@ -260,6 +260,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-extlinks
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -268,6 +269,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-extlinks
 
 
 # Archives
@@ -305,3 +307,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Jekyll ExtLinks Plugin
+extlinks:
+  attributes: {rel: nofollow, target: _blank}
