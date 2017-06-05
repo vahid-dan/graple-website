@@ -57,7 +57,23 @@ p {
   }
 }
 
-.half {
+.two-third {
+
+  @include span(12 of 12(gutter-override: 0));
+  margin-bottom: 2em;
+
+  @include breakpoint($medium) {
+    @include span(8 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+  }
+
+  @include breakpoint($large) {
+    @include span(8 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+  }
+}
+
+.one-half {
 
   @include span(12 of 12(gutter-override: 0));
   margin-bottom: 2em;
@@ -71,4 +87,12 @@ p {
     @include span(6 of 12(gutter-override: 0));
     margin-bottom: 2em;
   }
+}
+
+.padding-right {
+  padding-right: 0.5em;
+}
+
+.align-right {
+  text-align: right;
 }
