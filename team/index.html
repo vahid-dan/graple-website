@@ -19,12 +19,12 @@
 
 
 
-<title>About GRAPLE - GRAPLE</title>
+<title>Team - GRAPLE</title>
 
 
 
 
-<meta name="description" content="Distributed Computing Made Easy for Lake Ecology Modeling">
+<meta name="description" content="GRAPLE Team Members">
 
 
 
@@ -33,15 +33,15 @@
 
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="GRAPLE">
-<meta property="og:title" content="About GRAPLE">
+<meta property="og:title" content="Team">
 
 
-  <link rel="canonical" href="https://vahid-dan.github.io/graple-website/about/">
-  <meta property="og:url" content="https://vahid-dan.github.io/graple-website/about/">
+  <link rel="canonical" href="https://vahid-dan.github.io/graple-website/team/">
+  <meta property="og:url" content="https://vahid-dan.github.io/graple-website/team/">
 
 
 
-  <meta property="og:description" content="Distributed Computing Made Easy for Lake Ecology Modeling">
+  <meta property="og:description" content="GRAPLE Team Members">
 
 
 
@@ -165,17 +165,17 @@
 
     <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 <html><body>
-<div class="page__hero--overlay" style=" background-image: linear-gradient(rgba(127, 0, 255, 0.75), rgba(127, 0, 255, 0.75)), url('https://vahid-dan.github.io/graple-website/assets/images/header.jpg');">
+<div class="page__hero--overlay" style=" background-image: linear-gradient(rgba(255, 127, 0, 0.75), rgba(255, 127, 0, 0.75)), url('https://vahid-dan.github.io/graple-website/assets/images/header.jpg');">
   
     <div class="wrapper">
       <h1 class="page__title" itemprop="headline">
         
-          About GRAPLE
+          Team
 
         
       </h1>
       
-        <p class="page__lead">Distributed Computing Made Easy for Lake Ecology Modeling
+        <p class="page__lead">GRAPLE Team Members
 </p>
       
       
@@ -189,36 +189,109 @@
 
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="About GRAPLE">
-    <meta itemprop="description" content="Distributed Computing Made Easy for Lake Ecology Modeling">
+    <meta itemprop="headline" content="Team">
+    <meta itemprop="description" content="GRAPLE Team Members">
     
     
 
     <section class="page__content" itemprop="text">
       
 
-<p>GRAPLEr is an R-based open-source software product of GRAPLE, the <a href="http://www.gleon.org/" rel="nofollow" target="_blank">GLEON</a> Research and <a href="http://www.pragma-grid.net/" rel="nofollow" target="_blank">PRAGMA</a> Lake Expedition.</p>
+<p></p>
+<div class="half">
 
-<p>GRAPLEr brings the power of distributed computing to the fingertips of lake ecology modelers. While it is relatively easy to run one lake model simulation on a personal computer, it is more difficult to execute multiple simulations, which requires additional computing and human resources. To overcome this problem, GRAPLEr, a distributed computing system, integrates and applies overlay virtual network, high-throughput computing, and Web service technologies. GRAPLEr allows submission of hundreds or thousands of General Lake Model (GLM) simulations, runs these lake model simulations efficiently, and retrieves model output.</p>
+<p><img src="/graple-website/assets/images/renato.jpg" alt="Renato J. Figueiredo" class="profile-img"></p>
 
-<h3 id="using-graple">Using GRAPLE</h3>
+<h3 id="dr-renato-j-figueiredo-"><a href="https://www.acis.ufl.edu/people/renatof" target="_blank" rel="nofollow">Dr. Renato J. Figueiredo <i class="fa fa-link"></i></a></h3>
 
-<p>GRAPLEr, available on GitHub, is installed on a personal computer and integrated into the R development environment. It acts as a proxy to translate user commands written in R into Web service calls and arranges data between the client and Web service. A GLM simulation is specified by a set of input files (csv files) and model parameters (nml file). The required input files consist of time-series meteorological and inflow data. An additional outflow csv file can be included. Based on inputs, GRAPLEr either (A) performs a batch job which submits multiple preconfigured simulations as a job or (B1) performs a linear sweep or (B2) random sweep which generates multiple simulation input files, as specified, for submission:</p>
+<p>Professor, ACIS Lab, University of Florida</p>
 
-<p><img src="/graple-website/assets/images/Slide1.jpg" alt="Slide1"></p>
+<p></p>
+</div>
 
-<p>The batch job or option A requires multiple simulation folders with required meteorological, inflow, and parameter files:</p>
+<p></p>
+<div class="half">
 
-<p><img src="/graple-website/assets/images/Slide2.jpg" alt="Slide2"></p>
+<p><img src="/graple-website/assets/images/cayelan.jpg" alt="Cayelan Carey" class="profile-img"></p>
 
-<p>The linear or random sweep jobs B require a single set of baseline meteorological, inflow, and parameter files and a job description file (csv file) specifying constant or random distribution offsets to input variables within the meteorological and inflow files:</p>
+<h3 id="dr-cayelan-carey-"><a href="http://www.carey.biol.vt.edu/" target="_blank" rel="nofollow">Dr. Cayelan Carey <i class="fa fa-link"></i></a></h3>
 
-<p><img src="/graple-website/assets/images/Slide3.jpg" alt="Slide3"></p>
+<p>Assistant Professor, Carey Lab, VirginiaTech University</p>
 
-<p><img src="/graple-website/assets/images/Slide4.jpg" alt="Slide4"></p>
+<p></p>
+</div>
 
-<p>The job description file specifies the file (met.csv or inflow.csv) to be modified, number of samples or iterations, variables, mathematical operation (add, sub, mul, or div), type of distribution (linear, random, uniform, binomial, or Poisson), and range of values. Next, GRAPLEr configures, queues, and runs jobs and consolidates and prepares results for download. The resulting output at the completion of the model run is a netCDF file containing time-series data of lake variables at varying depths.</p>
+<p></p>
+<div class="half clear-both">
 
+<p><img src="/graple-website/assets/images/paul.jpg" alt="Paul C. Hanson" class="profile-img"></p>
+
+<h3 id="dr-paul-c-hanson-"><a href="http://hanson.limnology.wisc.edu/" target="_blank" rel="nofollow">Dr. Paul C. Hanson <i class="fa fa-link"></i></a></h3>
+
+<p>Distinguished Research Professor, UW Center for Limnology, University of Wisconsin-Madison</p>
+
+<p></p>
+</div>
+
+<p></p>
+<div class="half">
+
+<p><img src="/graple-website/assets/images/ken.jpg" alt="Kensworth Subratie" class="profile-img"></p>
+
+<h3 id="kensworth-subratie-"><a href="https://www.acis.ufl.edu/people/kcratie" target="_blank" rel="nofollow">Kensworth Subratie <i class="fa fa-link"></i></a></h3>
+
+<p>PhD Candidate, ACIS Lab, University of Florida</p>
+
+<p></p>
+</div>
+
+<p></p>
+<div class="half clear-both">
+
+<p><img src="/graple-website/assets/images/saumitra.jpg" alt="Saumitra Aditya" class="profile-img"></p>
+
+<h3 id="saumitra-aditya-"><a href="https://www.acis.ufl.edu/people/saumitraaditya" target="_blank" rel="nofollow">Saumitra Aditya <i class="fa fa-link"></i></a></h3>
+
+<p>PhD Candidate, ACIS Lab, University of Florida</p>
+
+<p></p>
+</div>
+
+<p></p>
+<div class="half">
+
+<p><img src="/graple-website/assets/images/jaikrishna.jpg" alt="Jaikrishna Tanjore Sukumar" class="profile-img"></p>
+
+<h3 id="jaikrishna-tanjore-sukumar-"><a href="https://www.acis.ufl.edu/people/jaikrishna" target="_blank" rel="nofollow">Jaikrishna Tanjore Sukumar <i class="fa fa-link"></i></a></h3>
+
+<p>Alumni, ACIS Lab, University of Florida</p>
+
+<p></p>
+</div>
+
+<p></p>
+<div class="half clear-both">
+
+<p><img src="/graple-website/assets/images/arianna.jpg" alt="Arianna Krinos" class="profile-img"></p>
+
+<h3 id="arianna-krinos">Arianna Krinos</h3>
+
+<p>Undergraduate Student, Carey Lab, VirginiaTech University</p>
+
+<p></p>
+</div>
+
+<p></p>
+<div class="half">
+
+<p><img src="/graple-website/assets/images/vahid.jpg" alt="Vahid Daneshmand" class="profile-img"></p>
+
+<h3 id="vahid-daneshmand-"><a href="https://www.acis.ufl.edu/people/vdaneshmand" target="_blank" rel="nofollow">Vahid Daneshmand <i class="fa fa-link"></i></a></h3>
+
+<p>PhD Student, ACIS Lab, University of Florida</p>
+
+<p></p>
+</div>
 
 
     </section>
