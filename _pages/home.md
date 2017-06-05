@@ -8,6 +8,10 @@ header:
   cta_url: "graple-v3.1.0-released/"
 excerpt: 'Distributed Computing Made Easy for Lake Ecology Modeling'
 ---
-*GRAPLE* is an inter-disciplinary collaboration between computer scientists and lake modelers with the *[GLEON](http://gleon.org/){: target="_blank"} Research and [PRAGMA](http://www.pragma-grid.net/){: target="_blank"} Lake Expedition*.
+*GRAPLE* is an inter-disciplinary collaboration between computer scientists and lake modelers with the *[GLEON] Research and [PRAGMA] Lake Expedition*.
 
-The *GRAPLE* collaboration's main software product is *[GRAPLEr](https://github.com/GRAPLE){: target="_blank"}*, an R-based open-source software that brings the power of distributed computing to the fingertips of lake ecology modelers.
+The *GRAPLE* collaboration's main software product is *[GRAPLEr]*, an R-based open-source software that brings the power of distributed computing to the fingertips of lake ecology modelers.
+
+[GLEON]: http://gleon.org/
+[PRAGMA]: http://www.pragma-grid.net/
+[GRAPLEr]: https://github.com/GRAPLE/
