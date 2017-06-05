@@ -73,6 +73,25 @@ p {
   }
 }
 
+.last-third {
+
+  @include span(12 of 12(gutter-override: 0));
+  margin-bottom: 2em;
+  text-align: left;
+
+  @include breakpoint($medium) {
+    @include span(12 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+    text-align: left;
+  }
+
+  @include breakpoint($large) {
+    @include span(4 of 12(gutter-override: 0));
+    margin-bottom: 2em;
+    text-align: right;
+  }
+}
+
 .one-half {
 
   @include span(12 of 12(gutter-override: 0));
