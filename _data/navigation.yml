@@ -45,7 +45,7 @@ sidebar:
      - title: Quick-Start Guide
        url: /quick-guide/
      - title: GRAPLEr v3.10
-       url: //graple-v3.1.0-released/
+       url: /graple-v3.1.0-released/
  - title: Categories
    children:
      - title: Documents
