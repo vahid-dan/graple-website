@@ -43,73 +43,83 @@ p {
 
 .one-third {
 
-  @include span(12 of 12(gutter-override: 0));
+  @include span(100%);
+  margin-right: 0;
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
-    @include span(6 of 12(gutter-override: 0));
+    @include span(47.5%);
+    margin-right: 2.5%;
     margin-bottom: 2em;
   }
 
   @include breakpoint($large) {
-    @include span(4 of 12(gutter-override: 0));
+    @include span(30.8333%);
+    margin-right: 2.5%;
     margin-bottom: 2em;
   }
 }
 
-.two-third {
+.three-fourth {
 
-  @include span(12 of 12(gutter-override: 0));
-  margin-bottom: 2em;
+  @include span(100%);
+  margin-right: 0;
 
   @include breakpoint($medium) {
-    @include span(12 of 12(gutter-override: 0));
-    margin-bottom: 2em;
+    @include span(72.5%);
+    margin-right: 2.5%;
   }
 
   @include breakpoint($large) {
-    @include span(8 of 12(gutter-override: 0));
-    margin-bottom: 2em;
+    @include span(72.5%);
+    margin-right: 2.5%;
   }
 }
 
-.last-third {
+.last-fourth {
 
-  @include span(12 of 12(gutter-override: 0));
-  margin-bottom: 2em;
+  @include span(100%);
+  margin-right: 0;
+  margin-top: 2em;
   text-align: left;
 
   @include breakpoint($medium) {
-    @include span(12 of 12(gutter-override: 0));
-    margin-bottom: 2em;
-    text-align: left;
+    @include span(25%);
+    margin-right: 0;
+    margin-top: 0;
+    text-align: right;
   }
 
   @include breakpoint($large) {
-    @include span(4 of 12(gutter-override: 0));
-    margin-bottom: 2em;
+    @include span(25%);
+    margin-right: 0;
+    margin-top: 0;
     text-align: right;
   }
 }
 
 .one-half {
 
-  @include span(12 of 12(gutter-override: 0));
+  @include span(100%);
+  margin-right: 0;
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
-    @include span(6 of 12(gutter-override: 0));
+    @include span(47.5%);
+    margin-right: 2.5%;
     margin-bottom: 2em;
   }
 
   @include breakpoint($large) {
-    @include span(6 of 12(gutter-override: 0));
+    @include span(47.5%);
+    margin-right: 2.5%;
     margin-bottom: 2em;
   }
 }
 
-.padding-right {
+.padding-bottom-right {
   padding-right: 0.5em;
+  padding-bottom: 0.5em;
 }
 
 .align-right {
