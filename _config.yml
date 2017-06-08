@@ -311,4 +311,4 @@ compress_html:
 # Jekyll ExtLinks Plugin
 extlinks:
   attributes: {rel: nofollow, target: _blank}
-  rel_exclude: ['graple.org', 'github.com']
+  rel_exclude: ['graple.org', 'github.io']
