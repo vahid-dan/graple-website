@@ -39,4 +39,4 @@ gallery:
     alt: "Arianna Krinos Won One of the Best Poster Awards"
     title: "Arianna Krinos Won One of the Best Poster Awards"
 ---
-{% include gallery caption="[The Advanced Computing and Information Systems Lab (ACIS)](http://www.acis.ufl.edu/) was honored to host [PRAGMA 32](http://www.pragma-grid.net/pragma32/) in Gainesville, Florida." %}
+{% include gallery caption="[The ACIS Lab](http://www.acis.ufl.edu/) was honored to host [PRAGMA 32](http://www.pragma-grid.net/pragma32/) in Gainesville, Florida." %}
