@@ -17,7 +17,7 @@
 
           <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
-          <span class="nav__sub-title"><i class="fa fa-caret-down" aria-hidden="true"></i> {{ nav.title }}</span>
+          <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
 
         {% if nav.children != null %}
@@ -37,7 +37,7 @@
               {% assign active = "" %}
             {% endif %}
 
-            <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
+            <li><i class="fa fa-angle-right" aria-hidden="true"></i> <a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}
