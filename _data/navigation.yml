@@ -42,7 +42,7 @@ main:
 sidebar:
  - title: Getting Started
    children:
-     - title: Quick-Start Guide
+     - title: Quick Guide
        url: /quick-guide/
      - title: GRAPLEr v3.10
        url: /graple-v3.1.0-released/
