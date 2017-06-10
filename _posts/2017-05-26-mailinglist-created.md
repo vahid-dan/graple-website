@@ -7,8 +7,8 @@ header:
   overlay_filter: rgba(0, 127, 255, 0.75)
 excerpt: 'GRAPLE Users Mailinglist has been created.'
 categories:
-  - news
+  - News
 tags:
-  - mailinglist
+  - Mailinglist
 ---
 A new mailing list has been created for GRAPLE users.

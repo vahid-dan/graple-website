@@ -10,7 +10,7 @@ excerpt: 'GRAPLE Quick Guide'
 sidebar:
   nav: "sidebar"
 categories:
-  - documents
+  - Documents
 tags:
   - v3.1.0
 ---

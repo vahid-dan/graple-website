@@ -9,9 +9,9 @@ excerpt: 'Jaikrishna Tanjore Sukumar got graduated.'
 sidebar:
   nav: "sidebar"
 categories:
-  - news
+  - News
 tags:
-  - team
+  - Team
 ---
 ![Jaikrishna Tanjore Sukumar](../../assets/images/jaikrishna.jpg){: .profile-img}
 

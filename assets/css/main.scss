@@ -131,19 +131,23 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 figcaption {
-    margin-bottom: 1em;
-    color: inherit;
-    font-family: inherit;
-    font-size: inherit;
-    text-align: center;
+  margin-bottom: 1em;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  text-align: center;
 }
 
 .greedy-nav a {
-    margin: 0px 0.65rem;
+  margin: 0px 0.65rem;
+}
+
+.nav__list .nav__items {
+  font-size: 1.50rem;
 }
 
 .nav__list .nav__items .active {
-    margin-left: 0;
+  margin-left: 0;
 }
 
 .masthead {
@@ -155,7 +159,7 @@ figcaption {
   color: #6C9AC3;
 }
 
-a, .nav__list .nav__items a {
+a, .nav__list .nav__items a, .greedy-nav a:hover {
   color: #6C9AC3;
 }
 
@@ -165,21 +169,13 @@ a, .nav__list .nav__items a {
   text-shadow: 1px 1px 4px #000;
 }
 
-.greedy-nav button {
+.greedy-nav button, .greedy-nav .visible-links a:before {
   background-color: #6C9AC3;
 }
 
 .greedy-nav a {
   color: #E28F41;
   margin: 0px 0.65rem;
-}
-
-.greedy-nav a:hover, .greedy-nav a:active  {
-  color: #6C9AC3;
-}
-
-.greedy-nav .visible-links a:before {
-  background: #6C9AC3;
 }
 
 .page__footer .fa {
