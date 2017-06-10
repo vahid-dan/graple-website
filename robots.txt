@@ -1,1 +1,1 @@
-Sitemap: https://vahid-dan.github.io/graple-website/sitemap.xml
+Sitemap: https://vahid-dan.github.io//graple-website/sitemap.xml
