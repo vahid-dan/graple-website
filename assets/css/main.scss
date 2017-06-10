@@ -166,7 +166,7 @@ a, .nav__list .nav__items a, .greedy-nav a:hover {
 .greedy-nav a.site-title {
   color: #6C9AC3;
   font-size: xx-large;
-  text-shadow: 1px 1px 4px #000;
+  text-shadow: 1px 1px 1px #000;
 }
 
 .greedy-nav button, .greedy-nav .visible-links a:before {
@@ -176,6 +176,10 @@ a, .nav__list .nav__items a, .greedy-nav a:hover {
 .greedy-nav a {
   color: #E28F41;
   margin: 0px 0.65rem;
+}
+
+.greedy-nav .visible-links {
+  padding-right: 1.5rem;
 }
 
 .page__footer .fa {
