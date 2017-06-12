@@ -64,6 +64,13 @@ Undergraduate Student, Carey Lab, VirginiaTech University
 {::nomarkdown}</div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-half clear-both">{:/nomarkdown}
+![Hari Hara Subramani Sundararaman](../assets/images/hari.jpg){: .profile-img}
+### [Hari Hara Subramani Sundararaman <i class="fa fa-link"></i>](https://github.com/itshari)
+
+Volunteer, ACIS Lab, University of Florida
+{::nomarkdown}</div>{:/nomarkdown}
+
+{::nomarkdown}<div class="one-half">{:/nomarkdown}
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 ### [Vahid Daneshmand <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand)
 
