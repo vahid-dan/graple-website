@@ -43,20 +43,27 @@ PhD Candidate, ACIS Lab, University of Florida
 {::nomarkdown}</div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-half">{:/nomarkdown}
+![Srinivas Satish Mahesula](../assets/images/satish.jpg){: .profile-img}
+### [Srinivas Satish Mahesula <i class="fa fa-link"></i>](https://github.com/smahesul)
+
+Alumni, ACIS Lab, University of Florida
+{::nomarkdown}</div>{:/nomarkdown}
+
+{::nomarkdown}<div class="one-half clear-both">{:/nomarkdown}
 ![Jaikrishna Tanjore Sukumar](../assets/images/jaikrishna.jpg){: .profile-img}
 ### [Jaikrishna Tanjore Sukumar <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/jaikrishna)
 
 Alumni, ACIS Lab, University of Florida
 {::nomarkdown}</div>{:/nomarkdown}
 
-{::nomarkdown}<div class="one-half clear-both">{:/nomarkdown}
+{::nomarkdown}<div class="one-half">{:/nomarkdown}
 ![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
-### Arianna Krinos
+### [Arianna Krinos <i class="fa fa-link"></i>](https://github.com/akrinos)
 
 Undergraduate Student, Carey Lab, VirginiaTech University
 {::nomarkdown}</div>{:/nomarkdown}
 
-{::nomarkdown}<div class="one-half">{:/nomarkdown}
+{::nomarkdown}<div class="one-half clear-both">{:/nomarkdown}
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 ### [Vahid Daneshmand <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand)
 
