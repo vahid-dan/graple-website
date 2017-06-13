@@ -34,6 +34,8 @@ main:
     url: /gallery/
   - title: Sister Projects
     url: /sisters/
+  - title: Mailing List
+    url: /mailinglist/
   - title: Sponsors
     url: /sponsors/
 
