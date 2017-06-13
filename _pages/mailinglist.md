@@ -10,4 +10,5 @@ excerpt: 'GRAPLEr Mailing List'
 [Join or Leave the GRAPLER-USERS-L List](https://lists.ufl.edu/cgi-bin/wa?SUBED1=IPOP-USERS-L&A=1)
 
 ## Already Subscribed?
-To send a message to all of the people currently subscribed to the list, just send email to GRAPLER-USERS-L{at}LISTS.UFL.EDU
+To send a message to all of the people currently subscribed to the list, just send email to:<br />
+<i class="fa fa-envelope-o" aria-hidden="true"></i> GRAPLER-USERS-L{at}LISTS.UFL.EDU
