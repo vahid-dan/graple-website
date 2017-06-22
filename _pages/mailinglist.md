@@ -7,7 +7,7 @@ header:
 excerpt: 'GRAPLEr Mailing List'
 ---
 ## Subscribe, Unsubscribe, Change Subscription
-[Join or Leave the GRAPLER-USERS-L List](https://lists.ufl.edu/cgi-bin/wa?SUBED1=IPOP-USERS-L&A=1)
+[Join or Leave the GRAPLER-USERS-L List](https://lists.ufl.edu/cgi-bin/wa?SUBED1=GRAPLER-USERS-L&A=1)
 
 ## Already Subscribed?
 To send a message to all of the people currently subscribed to the list, just send email to:<br />

@@ -15,17 +15,17 @@ Professor, ACIS Lab, University of Florida
 {::nomarkdown}</div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-half">{:/nomarkdown}
-![Cayelan Carey](../assets/images/cayelan.jpg){: .profile-img}
-### [Dr. Cayelan Carey <i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/)
+![Cayelan C. Carey](../assets/images/cayelan.jpg){: .profile-img}
+### [Dr. Cayelan C. Carey <i class="fa fa-link"></i>](http://www.carey.biol.vt.edu/)
 
-Assistant Professor, Carey Lab, VirginiaTech University
+Assistant Professor, Carey Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-half clear-both">{:/nomarkdown}
 ![Paul C. Hanson](../assets/images/paul.jpg){: .profile-img}
 ### [Dr. Paul C. Hanson <i class="fa fa-link"></i>](http://hanson.limnology.wisc.edu/)
 
-Distinguished Research Professor, UW Center for Limnology, University of Wisconsin-Madison
+Distinguished Research Professor, Center for Limnology, University of Wisconsin-Madison
 {::nomarkdown}</div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-half">{:/nomarkdown}
@@ -57,20 +57,27 @@ Alumni, ACIS Lab, University of Florida
 {::nomarkdown}</div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-half">{:/nomarkdown}
-![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
-### [Arianna Krinos <i class="fa fa-link"></i>](https://github.com/akrinos)
+![Kaitlin J. Farrell](../assets/images/kait.jpg){: .profile-img}
+### [Dr. Kaitlin J. Farrell <i class="fa fa-link"></i>](http://kaitlinjfarrell.weebly.com/)
 
-Undergraduate Student, Carey Lab, VirginiaTech University
+Dr. Kaitlin J. Farrell, Postdoctoral Associate, Carey Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-half clear-both">{:/nomarkdown}
+![Arianna Krinos](../assets/images/arianna.jpg){: .profile-img}
+### [Arianna Krinos <i class="fa fa-link"></i>](https://github.com/akrinos)
+
+Undergraduate Student, Carey Lab, Virginia Tech
+{::nomarkdown}</div>{:/nomarkdown}
+
+{::nomarkdown}<div class="one-half">{:/nomarkdown}
 ![Hari Hara Subramani Sundararaman](../assets/images/hari.jpg){: .profile-img}
 ### [Hari Hara Subramani Sundararaman <i class="fa fa-link"></i>](https://github.com/itshari)
 
 Volunteer, ACIS Lab, University of Florida
 {::nomarkdown}</div>{:/nomarkdown}
 
-{::nomarkdown}<div class="one-half">{:/nomarkdown}
+{::nomarkdown}<div class="one-half clear-both">{:/nomarkdown}
 ![Vahid Daneshmand](../assets/images/vahid.jpg){: .profile-img}
 ### [Vahid Daneshmand <i class="fa fa-link"></i>](https://www.acis.ufl.edu/people/vdaneshmand)
 

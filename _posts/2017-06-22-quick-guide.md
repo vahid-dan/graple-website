@@ -30,12 +30,12 @@ devtools::install_github("GRAPLE/GRAPLEr")
 ```
 
 ## Run a Sample Experiment
-You can go through the [Project EDDIE] module to test-drive the execution of hundreds of GLM model runs through GRAPLEr.
+You can go through the [Project EDDIE] module to test-drive the execution of hundreds of GLM model runs through GRAPLEr during the Part C activity of the module, and learn many different GRAPLEr commands with detailed annotation.
 
 ## Any Problem?
 Contact [Technical Support].
 
 
 [RStudio]: https://www.rstudio.com/products/rstudio/download2/
-[Project EDDIE]: http://cemast.illinoisstate.edu/data-for-students/modules/lake-modeling.shtml
+[Project EDDIE]: https://serc.carleton.edu/enviro_data/activities/lake_modeling.html
 [Technical Support]: ../contact
