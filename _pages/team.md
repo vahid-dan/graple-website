@@ -60,7 +60,7 @@ Alumni, ACIS Lab, University of Florida
 ![Kaitlin J. Farrell](../assets/images/kait.jpg){: .profile-img}
 ### [Dr. Kaitlin J. Farrell <i class="fa fa-link"></i>](http://kaitlinjfarrell.weebly.com/)
 
-Dr. Kaitlin J. Farrell, Postdoctoral Associate, Carey Lab, Virginia Tech
+Postdoctoral Associate, Carey Lab, Virginia Tech
 {::nomarkdown}</div>{:/nomarkdown}
 
 {::nomarkdown}<div class="one-half clear-both">{:/nomarkdown}
