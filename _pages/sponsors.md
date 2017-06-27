@@ -7,7 +7,7 @@ header:
 excerpt: 'GRAPLE Sponsors'
 ---
 
-![NSF Logo](../assets/images/nsf.png){: .profile-img} GRAPLEr has been developed as a collaboration between researchers in [PRAGMA] and [GLEON], with support from a supplement, the PRAGMA award (NSF OCI-1234983). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+![NSF Logo](../assets/images/nsf.png){: .profile-img} GRAPLE is an inter-disciplinary collaboration between computer scientists and lake modelers with the [GLEON] Research and [PRAGMA] Lake Expedition supported by PRAGMA award (NSF OCI-1234983). Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
 
 
 [PRAGMA]: http://www.pragma-grid.net/
